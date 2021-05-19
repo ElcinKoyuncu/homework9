@@ -116,7 +116,7 @@ Finally, although it’s not a requirement, consider adding validation to ensure
 
 ## Video for the application
 
-![Demo](./assets/image/demo.gif)
+![Demo](./Assets/image/demo.gif)
 
 ## Link for the repo
 [My homework]( https://elcinkoyuncu.github.io/homework9/)
